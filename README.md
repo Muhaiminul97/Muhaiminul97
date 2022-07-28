@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhaiminul97
 - 👀 I’m interested in Software Automation Testing
-- 🌱 I’m currently learning Mobile App Testing
+- 🌱 I have experienced in Selenium (Java),TestNG, AllureTest,POM,Cypress
 - 💞️ I’m looking to collaborate on Web Automation testing
 - 📫 How to reach me: Send an email to muhaiminul3048@gmail.com
 
