@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhaiminul97
 - 👀 I’m interested in Software Automation Testing
-- 🌱 I have experienced in Selenium (Java),TestNG, AllureTest, Page Object Model, Linear Model,Cucumber, Cypress
+- 🌱 I have experience in Selenium,Appium,TestNG, Java, JS, AllureTest, Page Object Model,Playwright, Cucumber, Cypress
 - 💞️ I’m looking to collaborate on Web Automation testing
 - 📫 How to reach me: Send an email to muhaiminul3048@gmail.com
 
